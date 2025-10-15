@@ -1,0 +1,16 @@
+[
+    {
+        "serial_number": 5636805,
+        "slope": 100.0093205,
+        "offset": 0.373452149,
+        "max_value": 1000,
+        "last_calibrated": null
+    },
+    {
+        "serial_number": 3806059,
+        "slope": null,
+        "offset": null,
+        "max_value": 5000,
+        "last_calibrated": null
+    }
+]

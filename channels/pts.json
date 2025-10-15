@@ -1,0 +1,53 @@
+{
+    "AVI": [
+        {
+            "name": "PT-HE-201",
+            "serial_number": 3806059,
+        },
+        {
+            "name": "PT-OX-201",
+            "serial_number": 5636805,
+        },
+        {
+            "name": "PT-FU-201",
+            "serial_number": null,
+        }
+    ],
+    "GSE": [
+        {
+            "name": "PT-HE-01",
+            "serial_number": null,
+            "channel": "Dev5/ai1"
+        },
+        {
+            "name": "PT-N2-01",
+            "serial_number": null,
+            "channel": "Dev5/ai5"
+        },
+        {
+            "name": "PT-FU-02",
+            "serial_number": null,
+            "channel": "Dev5/ai4"
+        },
+        {
+            "name": "PT-OX-04",
+            "serial_number": null,
+            "channel": "Dev5/ai2"
+        },
+        {
+            "name": "PT-FU-04",
+            "serial_number": null,
+            "channel": "Dev5/ai7"
+        },
+        {
+            "name": "PT-OX-202",
+            "serial_number": null,
+            "channel": "Dev5/ai20"
+        },
+        {
+            "name": "PT-FU-202",
+            "serial_number": null,
+            "channel": "Dev5/ai19"
+        }
+    ]
+}
