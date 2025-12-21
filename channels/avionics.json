@@ -1,0 +1,125 @@
+{
+    "PT_OX_201": {
+        "id": 0,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45,
+        "description": "Liquid oxygen tank pressure",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "PT_FU_201": {
+        "id": 1,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25,
+        "description": "Methane tank pressure",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "PT_HE_201": {
+        "id": 2,
+        "slope": 1454.119485,
+        "offset": -3.51,
+        "zero_offset": -99.40,
+        "description": "COPV pressure",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "SV_HE_201_state": {
+        "id": 11,
+        "description": "",
+        "channel_type": "u8",
+    },
+    "SV_HE_202_state": {
+        "id": 10,
+        "description": "",
+        "channel_type": "u8",
+    },
+    "SV_HE_201_position": {
+        "id": 13,
+        "description": "",
+        "channel_type": "bool",
+    },
+    "SV_HE_202_position": {
+        "id": 12,
+        "description": "",
+        "channel_type": "bool",
+    },
+    "FU_UPPER_SETP": {
+        "id": 14,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25,
+        "description": "",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "FU_LOWER_SETP": {
+        "id": 16,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25,
+        "description": "",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "FU_UPPER_REDLINE": {
+        "id": 18,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25,
+        "description": "",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "FU_UPPER_REDLINE_HIT": {
+        "id": 20,
+        "description": "",
+        "channel_type": "u8",
+    },
+    "OX_UPPER_SETP": {
+        "id": 15,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45,
+        "description": "",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "OX_LOWER_SETP": {
+        "id": 17,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45,
+        "description": "",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "OX_UPPER_REDLINE": {
+        "id": 19,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45,
+        "description": "",
+        "unit": "psi",
+        "channel_type": "f64"
+    },
+    "OX_UPPER_REDLINE_HIT": {
+        "id": 21,
+        "description": "",
+        "channel_type": "u8",
+    },
+    "FREE_SPACE": {
+        "id": 24,
+        "description": "",
+        "channel_type": "u64",
+    },
+    "PI_TEMP": {
+        "id": 123,
+        "slope": 0.001,
+        "offset": 0,
+        "description": "",
+        "channel_type": "f64",
+    },
+}
