@@ -1,0 +1,131 @@
+{
+    "SET_FU_UPPER_SETP": {
+        "id": 0,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25
+    },
+    "SET_FU_LOWER_SETP": {
+        "id": 1,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25
+    },
+    "SET_OX_UPPER_SETP": {
+        "id": 2,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45
+    },
+    "SET_OX_LOWER_SETP": {
+        "id": 3,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45
+    },
+    "SET_FU_STATE_REGULATE": {
+        "id": 4,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_FU_STATE_ISOLATE": {
+        "id": 5,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_FU_STATE_OPEN": {
+        "id": 6,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_OX_STATE_REGULATE": {
+        "id": 7,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_OX_STATE_ISOLATE": {
+        "id": 8,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_OX_STATE_OPEN": {
+        "id": 9,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_BB_STATE_REGULATE": {
+        "id": 10,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_BB_STATE_ISOLATE": {
+        "id": 11,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_BB_STATE_OPEN": {
+        "id": 12,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "NOOP": {
+        "id": 13,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "START": {
+        "id": 14,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "ABORT": {
+        "id": 15,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "SET_FU_UPPER_REDLINE": {
+        "id": 16,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25
+    },
+    "SET_FU_LOWER_REDLINE": {
+        "id": 17,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0360531,
+        "offset": 0.074545204,
+        "zero_offset": -19.25
+    },
+    "SET_OX_UPPER_REDLINE": {
+        "id": 18,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45
+    },
+    "SET_OX_LOWER_REDLINE": {
+        "id": 19,
+        "channel_type": "f64",
+        "num_args": 1,
+        "slope": 300.0279615,
+        "offset": 0.37,
+        "zero_offset": -21.45
+    },
+    "REDLINE_RESET": {
+        "id": 25,
+        "channel_type": "u8",
+        "num_args": 0
+    }
+}

@@ -29,22 +29,22 @@
     "SV_HE_201_state": {
         "id": 11,
         "description": "",
-        "channel_type": "u8",
+        "channel_type": "u8"
     },
     "SV_HE_202_state": {
         "id": 10,
         "description": "",
-        "channel_type": "u8",
+        "channel_type": "u8"
     },
     "SV_HE_201_position": {
         "id": 13,
         "description": "",
-        "channel_type": "bool",
+        "channel_type": "u8"
     },
     "SV_HE_202_position": {
         "id": 12,
         "description": "",
-        "channel_type": "bool",
+        "channel_type": "u8"
     },
     "FU_UPPER_SETP": {
         "id": 14,
@@ -76,7 +76,7 @@
     "FU_UPPER_REDLINE_HIT": {
         "id": 20,
         "description": "",
-        "channel_type": "u8",
+        "channel_type": "u8"
     },
     "OX_UPPER_SETP": {
         "id": 15,
@@ -108,18 +108,18 @@
     "OX_UPPER_REDLINE_HIT": {
         "id": 21,
         "description": "",
-        "channel_type": "u8",
+        "channel_type": "u8"
     },
     "FREE_SPACE": {
         "id": 24,
         "description": "",
-        "channel_type": "u64",
+        "channel_type": "u64"
     },
     "PI_TEMP": {
         "id": 123,
         "slope": 0.001,
         "offset": 0,
         "description": "",
-        "channel_type": "f64",
-    },
+        "channel_type": "f64"
+    }
 }
