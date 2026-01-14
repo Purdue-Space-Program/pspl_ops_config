@@ -1,0 +1,11 @@
+{
+    "synnax": {
+        "ip": "192.168.2.59",
+        "port": 9090
+    },
+    "fc": {
+        "ip": "localhost",
+        "command_port": 2703,
+        "telem_port": 2702
+    }
+}

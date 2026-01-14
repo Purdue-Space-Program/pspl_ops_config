@@ -127,5 +127,15 @@
         "id": 25,
         "channel_type": "u8",
         "num_args": 0
+    },
+    "BB_TOGGLE_OX": {
+        "id": 26,
+        "channel_type": "u8",
+        "num_args": 0
+    },
+    "BB_TOGGLE_FU": {
+        "id": 27,
+        "channel_type": "u8",
+        "num_args": 0
     }
 }
