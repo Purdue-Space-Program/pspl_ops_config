@@ -118,6 +118,7 @@
     "PI_TEMP": {
         "id": 123,
         "slope": 0.001,
+        "zero_offset": 0,
         "offset": 0,
         "description": "",
         "channel_type": "f64"
